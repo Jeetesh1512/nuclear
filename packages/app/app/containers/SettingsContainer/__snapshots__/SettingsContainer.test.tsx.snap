@@ -996,6 +996,19 @@ exports[`Settings view container should render settings 1`] = `
                   <span
                     class="text"
                   >
+                    Dogri
+                  </span>
+                </div>
+                <div
+                  aria-checked="false"
+                  aria-selected="false"
+                  class="item"
+                  role="option"
+                  style="pointer-events: all;"
+                >
+                  <span
+                    class="text"
+                  >
                     Hrvatski
                   </span>
                 </div>

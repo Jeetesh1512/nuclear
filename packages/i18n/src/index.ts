@@ -1,6 +1,7 @@
 import i18n, { LanguageDetectorModule } from 'i18next';
 
 import ar_SA from './locales/ar_SA.json';
+import doi from './locales/doi.json';
 import be_BY from './locales/be_BY.json';
 import bn_BD from './locales/bn_BD.json';
 import cs from './locales/cs.json';
@@ -84,6 +85,7 @@ export const setupI18n = ({ languageDetector, debug }: I18nOptions) => {
       tr,
       uk_UA,
       vi,
+      doi,
       yue_CN,
       zh_TW,
       zh_CN

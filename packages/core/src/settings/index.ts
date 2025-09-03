@@ -242,6 +242,7 @@ export const createSettingsConfig: (app?: Electron.App) => Array<Setting> = (app
       { key: 'hr', text: 'Hrvatski', value: 'hr' },
       { key: 'id', text: 'Bahasa Indonesia', value: 'id' },
       { key: 'is', text: 'Íslenska', value: 'is' },
+      { key: 'doi', text: 'Dogri', value: 'doi' },
       { key: 'it', text: 'Italiano', value: 'it' },
       { key: 'ja_JP', text: '日本語', value: 'ja_JP' },
       { key: 'ko', text: '한국어', value: 'ko' },
